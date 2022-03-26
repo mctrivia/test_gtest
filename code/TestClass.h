@@ -15,12 +15,6 @@
 
 class TestClass {
     mpz_t mImpl;
-    /*
-    static constexpr mpz_t _constFull = []() -> mpz_t {
-
-
-    };
-     */
 
 public:
     TestClass();
